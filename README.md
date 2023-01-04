@@ -2,6 +2,10 @@
 ### Welcome 👋
 This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
 
+## Deployment
+- https://gpt3-writer-starter-production-567c.up.railway.app/
+- https://railway.app/
+
 ## Extension
 
 ### Testing locally
