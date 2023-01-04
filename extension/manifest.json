@@ -1,0 +1,17 @@
+{
+  "name": "dave ramsey advice generator",
+  "description": "describe what you want to purchase and let Dave Ramsey tell you how if it's a good idea or not",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "48": "assets/48.png",
+    "72": "assets/72.png",
+    "96": "assets/96.png",
+    "144": "assets/144.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Dave Ramsey Advice"
+  },
+  "permissions": ["contextMenus", "tabs", "storage"]
+}
